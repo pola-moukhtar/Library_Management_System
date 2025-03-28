@@ -8,10 +8,10 @@ Our Team
 2-[Aya nasser]--->()
 
 3-[Basasnt sarea]--->(https://www.linkedin.com/in/basant-sarea-98ab092b4/)
-3-[Basasnt sarea]--->()
+3-[Basasnt sarea]--->(https://github.com/bassant-sarea)
 
 4-[Amira Tamer]--->(https://www.linkedin.com/in/amira-tamer-419a96298/)
-4-[Amira Tamer]--->(https://github.com/bassant-sarea)
+4-[Amira Tamer]--->()
 
 5-[Paula Moukhtar]--->(https://www.linkedin.com/in/paula-moukhtar-b473962a1)
 5-[Paula Moukhtar]--->(https://github.com/pola-moukhtar)
